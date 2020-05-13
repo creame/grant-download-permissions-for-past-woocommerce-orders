@@ -1,0 +1,30 @@
+{
+  "name": "creame/grant-download-permissions-for-past-woocommerce-orders",
+  "description": "This plugin grants downloads permissions like WooCommerce 2.6.x, granting permissions for new files added to a downloadable product.",
+  "version": "0.0.2",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "woocommerce",
+    "downloads",
+    "permissions"
+  ],
+  "homepage": "https://github.com/creame/grant-download-permissions-for-past-woocommerce-orders",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Claudio Sanches",
+      "homepage": "https://claudiosanches.com"
+    },
+    {
+      "name": "Creame",
+      "email": "hola@crea.me",
+      "homepage": "https://crea.me"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": ">=1.2.0"
+  }
+}
